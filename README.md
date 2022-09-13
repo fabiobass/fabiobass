@@ -1,8 +1,8 @@
 # Olá! Eu sou Fábio Silva, seja bem vindo! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 Estou estudando Java, Javascrip, React...
-- 👯 I’m looking to collaborate on ...
+- 🔭 
+- 🌱 
+- 👯 
 
     <div>
       <a href="https://github.com/fabiobass"></a>
