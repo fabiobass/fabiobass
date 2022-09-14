@@ -1,4 +1,4 @@
-# Olá! Eu sou Fábio Silva, seja bem vindo! 👋
+# Eu sou Fábio Silva, seja bem vindo!
 
 - 🖥️ 💻 📱
 
@@ -11,11 +11,11 @@
   ## 🛠  Linguagens:
   
     <div ><br> 
-        <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-        <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-        <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-        <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
+        <img height='70' width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+        <img height='70' width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+        <img height='70' width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+        <img height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img height='60' width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
     </div>
     
     ## 💻 Ferramentas:
@@ -28,13 +28,13 @@
    ##  📦 Banco de dados:
     
     <div>
-      <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-      <img height='50' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+      <img height='70' width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+      <img height='70' width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
     </div>
     
     ## 🔎 Onde me encontrar
     
     <div>
-    <a href="https://www.instagram.com/fabio_silva0409/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-     badge&logo=instagram&logoColor=white" alt="" /></a>
-    <a href="https://www.linkedin.com/in/fábio-sillva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>   
+    <a href="https://www.instagram.com/fabio_silva0409/"> <img height='100' width="90" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-     badge&logo=instagram&logoColor=white" alt="" /></a>
+    <a href="https://www.linkedin.com/in/fábio-sillva/"> <img height='100' width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>   
     </div>
