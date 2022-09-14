@@ -1,6 +1,7 @@
 # Eu sou Fábio Silva, seja bem vindo!
 
-- 🖥️ 💻 📱
+- 🖥️ Analise e Desenvolvimento de Sistemas
+- <a href="https://acesso.cesmac.edu.br/abertura">📚 Cesmac </a>
 
     <div>
       <a href="https://github.com/fabiobass"></a>
