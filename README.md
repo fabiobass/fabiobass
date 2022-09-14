@@ -4,8 +4,8 @@
 
     <div>
       <a href="https://github.com/fabiobass"></a>
-      <img height='180em'src="https://github-readme-stats.vercel.app/api?username=fabiobass&show_icons=true&theme=cobalto" />
-      <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobass&layout=compact&theme=cobalto" />
+      <img height='180em'src="https://github-readme-stats.vercel.app/api?username=fabiobass&show_icons=true&theme=dark" />
+      <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobass&layout=compact&theme=dark" />
     </div>
     
   ## 🛠  Linguagens:
